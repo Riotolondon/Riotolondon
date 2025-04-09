@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hey there! 👋 I'm Mthokozisi (a.k.a. Riotolondon)
 
-<!--
-**Riotolondon/Riotolondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a creative full-stack dev & tech enthusiast  
+🚀 Currently working on: QuiteUnrequited, MOSE V, and AI workshops  
+🎯 2025 Goal: Build more tools that impact real people
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-CSharp-333?style=flat&logo=csharp)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+
+---
+
+📈 **GitHub Stats**
+![Riotolondon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riotolondon&show_icons=true&theme=radical)
+
+---
+
+📫 **Let's connect:**
+[LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE) • [Twitter](https://twitter.com/YOUR-TWITTER) • [QuiteUnrequited](https://quiteunrequited.vercel.app)
+
+---
+
+_“Building with purpose. Learning every day.”_
