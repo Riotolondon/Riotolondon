@@ -1,4 +1,4 @@
-#  Yoooow , This is Mthokozisi Mthembu — aka Rio
+#  Yoooow! , This is Mthokozisi Mthembu — aka Rio
 
 🎓 Software Development | 📍 South Africa  
 💡 Full-Stack Dev • IoT Builder • AI Explorer • Hackathon Enthusiast  
